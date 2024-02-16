@@ -1,6 +1,6 @@
 /*
 This code is part of class CS 210: Programming Language offered by Southern New Hampshire
-University. No copyright infringement intended. This repositery is part of my learning
+University. No copyright infringement intended. This repository is part of my learning
 journey.
 2. Variables/Assignments - C++
 2.2 Variables (int)
@@ -15,7 +15,7 @@ int main(){
     int userAgeDays;        // declaring integer variable to store user age in days
 
     cout << "Enter your age in years: ";    // basic output
-    cin >> userAgeYears;                    // reads user input and store in integer variable
+    cin >> userAgeYears;                    // reads user input and stores in integer variable
 
     userAgeDays = userAgeYears * 365;       // computes to get user age in days
 
