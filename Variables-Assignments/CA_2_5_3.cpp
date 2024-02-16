@@ -1,6 +1,6 @@
 /*
 This code is part of class CS 210: Programming Language offered by Southern New Hampshire
-University. No copyright infringement intended. This repositery is part of my learning
+University. No copyright infringement intended. This repository is part of my learning
 journey.
 2. Variables/Assignments - C++
 2.2 Variables (int)
@@ -18,12 +18,12 @@ int main(){
     int numTacos;
     int totalCosts;
 
-    cin >> numDrinks;   // reads user intput for number of drinks
+    cin >> numDrinks;   // reads user input for number of drinks
     cin >> numTacos;    // reads user input for number of tacos
 
     /* Your solution goes here */
     // computes for totalCosts = drinks costs 2 dollars and taco costs 4 dollars
-    // () are not required here since * have precedence over +
+    // () are not required here since * has precedence over +
     totalCosts = numDrinks * 2 + numTacos * 4;
 
     cout << "Total cost: " << totalCosts << endl;
