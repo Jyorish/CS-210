@@ -1,17 +1,17 @@
 /*
 This code is part of class CS 210: Programming Language offered by Southern New Hampshire
-University. No copyright infringement intended. This repositery is part of my learning
+University. No copyright infringement intended. This repository is part of my learning
 journey.
 2. Variables/Assignments - C++
 2.2 Variables (int)
 
-Figure 2.6.2: Health data: Caluclating user's age in days and minutes.
+Figure 2.6.2: Health data: Calculating user's age in days and minutes.
 */
 #include<iostream>
 using namespace std;
 
 int main(){
-    int userAgeYears;       // declating an integer variables
+    int userAgeYears;       // declaring an integer variables
     int userAgeDays;
     int userAgeMinutes;
 
