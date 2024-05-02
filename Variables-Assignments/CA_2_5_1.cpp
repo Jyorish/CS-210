@@ -1,6 +1,6 @@
 /*
 This code is part of class CS 210: Programming Language offered by Southern New Hampshire
-University. No copyright infringement intended. This repository is part of my learning
+University. No copyright infringement intended. This repositery is part of my learning
 journey.
 2. Variables/Assignments - C++
 2.2 Variables (int)
@@ -105,7 +105,7 @@ int main(){
 OUTPUT
 1
 9
-EXPLANATION:
+EXPLANATON:
 x += (2 - y)
 x += -3 this is usually computed as x = x + -3 which is x = 4 - 3
 x = 1

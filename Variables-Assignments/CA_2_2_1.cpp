@@ -1,7 +1,8 @@
 /*
 This code is part of class CS 210: Programming Language offered by Southern New Hampshire
-University. No copyright infringement intended. This repository is part of my learning
-journey.
+University. 
+No copyright infringement intended. 
+This repositery is part of my learning journey.
 2. Variables/Assignments - C++
 2.2 Variables (int)
 
